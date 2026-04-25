@@ -2,6 +2,6 @@
 
 ## Exercise from DE Certification, Module 9
 
-<a href="http://mcleanshepherd@github.io/GitHubMiniLesson">GitHubMiniLesson</a>
+<a href="http://mcleanshepherd.github.io/GitHubMiniLesson">GitHubMiniLesson</a>
 
 

@@ -6,7 +6,7 @@
 
 <a href="https://mcleanshepherd.github.io/test">test</a>
 
-**NOTE: I need the correct version of the MIT.ipynb notebook to do this activity.
+**NOTE: I need the correct version of the MIT.ipynb notebook to do this activity.**
 
 
 

@@ -6,9 +6,6 @@
 
 <a href="https://mcleanshepherd.github.io/MO-PCDE_M9_final_assignment">MO-PCDE_M9_final_assignment</a>
 
-Download [Jupyter Notebook - Craig Shepherd](./MO-PCDE_M9_final_assignment-Craig_Shepherd.ipynb)
-
-**NOTE: I need the correct version of the MIT.ipynb notebook to do this activity.**
 
 
 
